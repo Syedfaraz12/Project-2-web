@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 100%);
+}
+.logo{
+    height : 50px;
+    width : 130px;
+}
+
+p{
+    margin: 30px;
+    font-size: 25px;
+    font-weight: 400;
+    width: 600px;
+    margin-left: 20px;
+}
+.heading1{
+    
+    padding: 30px;
+    margin-top: 80px;
+    font-size: 30px;
+    width: 650px;
+    
+    
+}
+
+.car{
+    float: right;
+    margin-right: 41px;
+    height: 400px;
+    width: 600px;
+    border-radius: 7px;
+    margin-top: 50px;
+}
+
+.heading2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 450px;
+    text-align: center;
+}
+
+.content{
+    
+    font-size: 27px;
+    font-weight: 300;
+    margin-right: 100px;
+    text-align: center;
+}
+.fourthDiv{
+    margin-right: 200px;
+}
+.rightSection-6{
+    
+    position: absolute;
+    margin-left: 700px;
+    height: 200px;
+    width: 200px;
+    border-radius: 7px;
+    margin-top: -120px;
+}
+h3{
+    margin-left: 120px;
+}
+
+.content2{
+    margin-left: 850px;
+}
+
+h4{
+    font-size: 50px;
+    text-align: center;
+}
+
+.info{
+    margin-left: 500px;
+    text-align: center;
+}
+.afterSec-3{
+    position: relative;
+    left: 740px;    
+    align-items: center;
+}
+
+.fourthVid{
+    margin-left: 640px;
+    align-self: auto;
+}
+
+.fifthDiv{
+    text-align: center;
+    font-size: 35px;
+}
+
+
+
+h5{
+    margin: 40px;
+
+}
+
+seventhSection{
+    height: 200px;
+    margin-left: 900px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #1455be;
+    
+}
+.image{
+    margin-left: 610px;
+    position: absolute;
+
+}
+
+form { 
+    margin: 0 auto; 
+    width:250px;
+    }
+input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 2px solid rgb(62, 107, 255);
+        border-radius: 6px;
+        box-sizing: border-box;
+      }
+      
+input[type=submit] {
+        width: 100%;
+        background-color: #1455be;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        width:120px;
+        position: relative;
+        left: 70px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+input[type=submit]:hover {
+        background-color: #002999;
+      }
+footer{
+    margin-top:50px ;
+    padding: 30px;
+    height: 450px;
+    background-color: #fff;
+}
+.leftSection-6{
+    position: relative;
+    text-align: center;
+    left: 100px;
+    top: 100px;
+}
+.leftSection-6 img{
+    float: right;
+    height: ;
+}
+
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px;
+    
+    
+}
+.leftSection-d{
+
+font-size: 16px;
+width: 500px;
+
+}
+.leftSection h1{
+
+    font-size: 45px;
+    width: 500px;
+    
+    }
+.secondSection{
+    height: 210px;
+    
+    width: 100%;
+    
+    background-color: #1455be;
+}
+.secondSection img{
+    height: 100px;
+    width: 280px;
+    position: relative;
+    left: 80px;
+    margin: 70px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.beforeSec3{
+    color: #1455be;
+    font-weight: 600;
+    font-size: 28px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.beforeSec3-1{
+    color: #000000;
+   
+    font-weight: 600;
+    font-size: 28px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.thirdSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 60px;
+}
+.leftsection-3 {
+    width: 600px;
+
+
+}
+.leftsection-3 img {
+    width: 560px;
+    height: 350px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+.rightsection-3 {
+    width:430px;
+    height: 350px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+.rightsection-3 h3{
+    color: #1455be;
+    font-size: 26px;
+
+}
+.afterSec-3{
+    
+    text-align: center;
+    
+    font-size: 9px;
+  
+}
+.fourthDiv{
+    text-align: center;
+}
+.fourthDiv h3{
+    color: #1455be;
+    font-size: 26px;
+}
+.fourthDiv h2{
+    color: #050505;
+    font-size: 28px;
+    margin: 30px;
+    position: relative;
+   left: 400px;
+    width: 600px;
+}
+.fourthVid{
+    margin: auto;
+    width: 50%;
+}
+.fifthDiv{
+    color: #1455be;
+    font-size: 26px;
+    text-align: center;
+}
+.sixth-borderbox{
+    border: 3px solid rgb(218, 223, 233);
+    border-radius: 20px;
+    height:350px;
+    margin:auto;
+    width: 60%;
+    padding: 50px;
+}
+.leftSection-6 p{
+    width: 400px;
+    font-size: large;
+    
+}
+.rightSection-6 img{
+    align-items: center;
+    height: 300px;
+    width: 290px;
+    float: right;
+    border-radius: 20px;
+}
+.fourthDiv{
+    text-align: center;
+}
+
+
+.sixDiv h2{
+    color: #050505;
+    font-size: 28px;
+    margin: 30px;
+    text-align: center;
+    
+   
+}
+.storelogo{
+    position: relative;
+    left: 670px;
+    
+}
+.seventhSection{
+    height: 350px;
+    
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #1455be;
+}
+form { 
+    margin: 0 auto; 
+    width:250px;
+    }
+input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 2px solid rgb(62, 107, 255);
+        border-radius: 6px;
+        box-sizing: border-box;
+      }
+      
+input[type=submit] {
+        width: 100%;
+        background-color: #1455be;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        width:120px;
+        position: relative;
+        left: 70px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+input[type=submit]:hover {
+        background-color: #002999;
+      }
